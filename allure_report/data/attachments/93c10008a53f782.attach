@@ -1,0 +1,1 @@
+{'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZDY3MjQ5OWVkMjgwMDAxYjU5ZmJkOSIsImlhdCI6MTc0MjEwNzIwOSwiZXhwIjoxNzQyMTA4NDA5fQ.u9Z1q5QEuTqzw8iWVVYHq4N8EvXDFSsSmk-L2NErSOI', 'refreshToken': '34238f4318da2591b97dd45f9de0fd877d912f04fcaf65a65f4666651aada097416e5047e71b80f0', 'user': {'email': 'testhi8pbxhs@mail.com', 'name': 'UservUYpAW'}}
