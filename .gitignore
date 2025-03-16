@@ -1,0 +1,42 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Local configuration files
+*.env
+*.local
+
+# Environment directories
+.venv/
+venv/
+env/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and cache
+*.log
+*.cache
+.cache/
+
+# Pytest and coverage
+.coverage
+htmlcov/
+
+# Allure reports
+*allure*/
+
+# Test reports
+test_reports/
